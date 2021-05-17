@@ -2,7 +2,7 @@
 
 ## How to use
 
-1. Clone this repository with `git clone https://github.com/Slddev/php-fileuploader`.
+1. Download the pre-compiled package [here](https://github.com/Slddev/php-fileuploader/releases).
 2. Upload files to webserver.
 3. Execute this database query: 
  ```
