@@ -1,5 +1,9 @@
 # PHP File Uploader
 
+Demo: https://cdn.sappy.ga/
+
+Contact me at Discord (Sappy#1463).
+
 ## How to use
 
 1. Download the pre-compiled package [here](https://github.com/Slddev/php-fileuploader/releases).
