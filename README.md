@@ -25,3 +25,4 @@ Contact me at Discord (Sappy#1463).
 - Use PHP 7.4 for best compatibility.
 - To change size limits and other settings open `upload.php`, `iupload.php`, and `pupload.php` 
 - Do not remove the credits.
+- Immediately register as "default"
