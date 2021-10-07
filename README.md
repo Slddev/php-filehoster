@@ -1,8 +1,8 @@
 # PHP File Uploader
 
-Demo: https://cdn.sappy.ga/
+Demo: ~~https://cdn.sappy.ga/~~ (Down currently.)
 
-Contact me at Discord (Sappy#1463).
+Contact me at Discord (Sappy#8123).
 
 ## How to use
 
