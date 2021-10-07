@@ -1,4 +1,4 @@
-# PHP File Uploader
+# PHP File Hoster
 
 Demo: ~~https://cdn.sappy.ga/~~ (Down currently.)
 
